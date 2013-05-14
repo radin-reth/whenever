@@ -2,15 +2,13 @@ Whenever is a Ruby gem that provides a clear syntax for writing and deploying cr
 
 ### Installation
 
-```sh
-$ gem install whenever
-```
-
-Or with Bundler in your Gemfile.
+Remove any old version of whenever and include the following in your gem file:
 
 ```ruby
-gem 'whenever', :require => false
+gem 'whenever', git: 'git@github.com:Insomniware/whenever.git', :require => false
 ```
+
+I will keep this version updated with any changes javan makes to the original whenever.
 
 ### Getting started
 
