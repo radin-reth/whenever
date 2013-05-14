@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/Insomniware/whenever.png?branch=master)](https://travis-ci.org/Insomniware/whenever)
 
-Whenever is a Ruby gem that provides a clear syntax for writing and deploying cron jobs.
+Whenever is a Ruby gem that provides a clear syntax for writing and deploying cron jobs. This version caters specifically to RVM.
 
 ### Installation
 
@@ -214,14 +214,14 @@ Thanks to all the contributors who have made it even better: <http://github.com/
 
 For general discussion and questions, please use the google group: <http://groups.google.com/group/whenever-gem>
 
-If you've found a genuine bug or issue, please use the Issues section on github: <http://github.com/javan/whenever/issues>
+If you've found a genuine bug or issue, please use the Issues section on github: <http://github.com/Insomniware/whenever/issues>
 
 Ryan Bates created a great Railscast about Whenever: <http://railscasts.com/episodes/164-cron-in-ruby>
 It's a little bit dated now, but remains a good introduction.
 
 ----
 
-Compatible with Ruby 1.9.2-2.0.0, JRuby, and Rubinius. [![Build Status](https://travis-ci.org/Insomniware/whenever.png?branch=master)](https://travis-ci.org/Insomniware/whenever)
+Compatible with Ruby 1.9.2-2.0.0 installed via RVM  [![Build Status](https://travis-ci.org/Insomniware/whenever.png?branch=master)](https://travis-ci.org/Insomniware/whenever)
 
 ----
 
