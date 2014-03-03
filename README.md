@@ -239,4 +239,4 @@ Compatible with Ruby 1.9.2-2.0.0 installed via RVM  [![Build Status](https://tra
 
 ----
 
-Copyright &copy; 2013 Javan Makhmali
+Copyright &copy; 2014 Javan Makhmali
